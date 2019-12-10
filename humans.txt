@@ -1,0 +1,15 @@
+/* SITE INFORMATION */
+
+	Site name:  Put name here
+	Site URL:   https://name.here/
+	Web design: Name Here
+	About.me: http://www.name.here/
+	Web development: Name Here
+	About.me:   https://name.here
+	Github:	https://github.com/namehere
+	Contact:    https://name.here
+	Location:   XX (Country)
+	Built with: List, Parts, Of, Your, Stack
+	Launched:   0000
+	Last update: 0000/00/00
+	Version: 1.0.0.
